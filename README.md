@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moinak.
 - 👀 I’m interested in Computer Science and Electronics.
 - 🌱 I’m currently learning C++ and Python.
-- I'm love cycling.
+- I love cycling.
 
 
 <!---
