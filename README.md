@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Moinak.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning C++.
+- ⭐ I'm currently pursuing B.Tech in CSE from IIT Ropar.
 
 
 <!---
